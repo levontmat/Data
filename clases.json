@@ -1,0 +1,86 @@
+{
+  "alumnos": [
+    {
+      "id": "1",
+      "imagen": "/assets/sinfoto.webp",
+      "nombre": "Matias",
+      "apellido": "Muñoz",
+      "carrera": "Ingeniera en informatica",
+      "correo": "mati.munozt@duocuc.cl",
+      "password": "duoc1234",
+      "isactive": true
+    },
+    {
+      "id": "b0fd",
+      "nombre": "isabel",
+      "apellido": "mendoza",
+      "carrera": "derecho",
+      "correo": "isabel@duocuc.cl",
+      "password": "peta1234",
+      "isactive": true,
+      "imagen": "C:\\fakepath\\favicon.png"
+    },
+    {
+      "id": "a15f",
+      "nombre": "Ale",
+      "apellido": "Tobar",
+      "carrera": "vagabundo",
+      "correo": "ale@duocuc.cl",
+      "password": "trans1234",
+      "isactive": true
+    }
+  ],
+  "clases": [
+    {
+      "id": "1",
+      "seccion": "004D",
+      "nombre": "Aplicaciones Moviles",
+      "docente": "Viviana Poblete",
+      "sala": "202",
+      "fecha": "Lunes y Jueves"
+    },
+    {
+      "id": "2",
+      "seccion": "004D",
+      "nombre": "Estadistica Descriptiva",
+      "docente": "Alfredo Aguilera",
+      "sala": "254",
+      "fecha": "Martes y Miercoles"
+    },
+    {
+      "id": "3",
+      "seccion": "003D",
+      "nombre": "Gestion de personas",
+      "docente": "Jose Saldaña",
+      "sala": "343",
+      "fecha": "Lunes y Martes"
+    },
+    {
+      "id": "4",
+      "seccion": "028D",
+      "nombre": "Ingles Intermedio",
+      "docente": "Odila Escobillana",
+      "sala": "253",
+      "fecha": "Martes, Miercoles y Viernes"
+    },
+    {
+      "id": "5",
+      "seccion": "010D",
+      "nombre": "Seguridad de software",
+      "docente": "Daniel Montero",
+      "sala": "209",
+      "fecha": "Lunes y Miercoles"
+    }
+  ],
+  "justificacion": [
+    {
+      "id": "2017",
+      "imagen": "/assets/sinfoto.webp",
+      "nombre": "Matias Alejandro",
+      "apellido": "Muñoz Tobar",
+      "correo": "mati.munozt@duocuc.cl",
+      "materia": "Gestion de Personas",
+      "motivo": "me quede dormido por hacer el proyecto :)"
+    }
+  ]
+}
